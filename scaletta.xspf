@@ -591,7 +591,7 @@
 		<track>
 			<location>https://dotfvxkfj90ca.cloudfront.net/live/telenuovatv_aac/chunklist.m3u8?token=b0f326c1-3f26-41fc-8cbc-8e8b57fc82f6&amp;streamSessionId=9233cbd6-3add-4f88-bb0c-5fa10c1aac58&amp;code=Telenuova&amp;expires=1690232513019&amp;ctrl=d5f96ae83c8a5fd107f792b66e7963f226d3d6f2b84381a37f850acd2302cd8de95af00a43916bdac749dc5ad314d5987142745177117c28ce11ad4b884b8b9c</location>
 			<title>Telenuova</title>
-			<image>file:///C:/Users/Marco Scuola/Downloads/R (1).png</image>
+			<image>file:///https://romatrasportiarchivio.altervista.org/wp-content/uploads/2023/07/Telenuova_SA.png</image>
 			<duration>11400</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>66</vlc:id>
